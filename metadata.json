@@ -1,0 +1,8 @@
+{
+  "name": "اي هبد في هبد",
+  "description": "لعبة هبد في هبد الجماعية - أسئلة غريبة وتحدي الهبد والإقناع بين الأصدقاء مع مؤقت وتصويت وكشف الحقائق",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
